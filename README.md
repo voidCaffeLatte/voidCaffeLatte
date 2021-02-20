@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @voidCaffelatte
 - I work as a game developer
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Rust
 
 <!---
