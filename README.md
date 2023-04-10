@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @voidCaffelatte
+- 👋 Hi, I’m @voidCaffeLatte
 - I work as a game developer
 - 🌱 I’m currently learning Rust
 
